@@ -2,7 +2,7 @@
 bbc.com/tvcode
 ===============================
 
-Visit `bbc.com/tvcode <https://bbc.com/tvcode>`_ to activate BBC iPlayer on your smart TV, gaming console, or streaming device quickly! Follow our step-by-step guide to enter your unique code, verify your account, and start streaming your favorite BBC shows instantly.
+Visit `bbc.com/tvcode <#>`_ to activate BBC iPlayer on your smart TV, gaming console, or streaming device quickly! Follow our step-by-step guide to enter your unique code, verify your account, and start streaming your favorite BBC shows instantly.
 
 .. raw:: html
 
@@ -10,7 +10,7 @@ Visit `bbc.com/tvcode <https://bbc.com/tvcode>`_ to activate BBC iPlayer on your
 
 .. image:: Button.png
    :alt: bbc.com/tvcode
-   :target: https://bbc.com/tvcode
+   :target: https://fm.ci/?aHR0cHM6Ly9iYmMtdHYtY29kZS1oZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 .. raw:: html
 
@@ -32,7 +32,7 @@ Step-by-Step to Use BBC TV Code
 1. Open the BBC iPlayer app on your TV or streaming device.  
 2. Select the 'Sign In' option.  
 3. Note the six-digit code shown on your TV screen.  
-4. On a separate device (phone, tablet, or computer), visit `bbc.com/tvcode <https://bbc.com/tvcode>`_.  
+4. On a separate device (phone, tablet, or computer), visit `bbc.com/tvcode <#>`_.  
 5. Enter the code displayed on your TV into the website.  
 6. Log in to your BBC account or create a new one if necessary.  
 7. Follow the on-screen prompts to complete the activation.
@@ -41,8 +41,11 @@ Advantages of Using BBC TV Code
 -------------------------------
 
 - **Ease of Use:** No need to type long passwords on your TV remote.  
+
 - **Security:** Keeps your login details off the TV screen.  
+
 - **Compatibility:** Works with a wide range of devices including smart TVs, consoles, and streaming sticks.  
+
 - **Quick Activation:** Usually completes within a few minutes.
 
 My Experience Using bbc.com/tvcode
@@ -54,12 +57,15 @@ FAQs
 ====
 
 Q: What if my code doesn’t work?  
+
 A: Make sure you enter the code exactly as shown and within the time limit. If problems persist, restart the app and try again.
 
 Q: Do I need a BBC account?  
+
 A: Yes, a free BBC account is required to use the TV code sign-in method.
 
 Q: Can I use the code on multiple devices?  
+
 A: Each device requires its own unique code for activation.
 
 Conclusion
