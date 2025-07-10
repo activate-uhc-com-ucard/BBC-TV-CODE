@@ -10,7 +10,7 @@ Visit `bbc.com/tvcode <#>`_ to activate BBC iPlayer on your smart TV, gaming con
 
 .. image:: Button.png
    :alt: bbc.com/tvcode
-   :target: https://sites.google.com/view/bbccom-tvcode/
+   :target: https://pre.im/?GZGqGXnYcaJ2zxvd4MNAyi0RUC314ELiFM6fdAspY9sUYg59RjxzH24kpmJlyxQCARtN2fF8kO
 .. raw:: html
 
     </div>
